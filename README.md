@@ -79,7 +79,7 @@ def __init__(self, w=640, h=480):
 
 ### 🛠️ Built With
 
-* [Python 3.7](https://www.canva.com/) - Creating Project
+* [Python 3.7](https://www.python.org/) - Creating Project
 
 
 ### ❤️ Authors
