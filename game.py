@@ -137,7 +137,9 @@ class SnakeGame:
         self.head = Point(x, y)
             
 
-if __name__ == '__main__':
+def startgame(gamespeed = 10):
+    global SPEED
+    SPEED = gamespeed
     game = SnakeGame()
     score_final = 0
     # game loop
